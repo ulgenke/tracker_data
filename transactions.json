@@ -1,0 +1,277 @@
+{
+    "data": [
+        {
+            "type": "Credit",
+            "amount": 1300.45,
+            "date": "2024-10-03",
+            "name": "Freelance Payment",
+            "mode": "Bank Transfer",
+            "description": "Payment for freelance web development"
+        },
+        {
+            "type": "Debit",
+            "amount": 120.75,
+            "date": "2024-10-02",
+            "name": "Office Supplies",
+            "mode": "Card",
+            "description": "Office supplies from Staples"
+        },
+        {
+            "type": "Credit",
+            "amount": 850.00,
+            "date": "2024-10-01",
+            "name": "Consulting Fee",
+            "mode": "Cash",
+            "description": "Consultation services for client"
+        },
+        {
+            "type": "Debit",
+            "amount": 40.50,
+            "date": "2024-09-30",
+            "name": "Internet Bill",
+            "mode": "Online Payment",
+            "description": "Monthly internet service"
+        },
+        {
+            "type": "Credit",
+            "amount": 1500.00,
+            "date": "2024-09-28",
+            "name": "Project Milestone",
+            "mode": "Bank Transfer",
+            "description": "Received milestone payment for project"
+        },
+        {
+            "type": "Debit",
+            "amount": 75.30,
+            "date": "2024-09-27",
+            "name": "Software Subscription",
+            "mode": "Card",
+            "description": "Monthly subscription fee for software"
+        },
+        {
+            "type": "Credit",
+            "amount": 900.00,
+            "date": "2024-09-26",
+            "name": "Training Session",
+            "mode": "Cash",
+            "description": "Payment for corporate training session"
+        },
+        {
+            "type": "Debit",
+            "amount": 65.00,
+            "date": "2024-09-25",
+            "name": "Business Lunch",
+            "mode": "Card",
+            "description": "Business meeting lunch expenses"
+        },
+        {
+            "type": "Credit",
+            "amount": 2000.00,
+            "date": "2024-09-24",
+            "name": "Bonus Payment",
+            "mode": "Bank Transfer",
+            "description": "Received bonus for excellent performance"
+        },
+        {
+            "type": "Debit",
+            "amount": 55.20,
+            "date": "2024-09-23",
+            "name": "Transportation",
+            "mode": "Cash",
+            "description": "Taxi fare for business meeting"
+        },
+        {
+            "type": "Credit",
+            "amount": 3200.00,
+            "date": "2024-09-22",
+            "name": "Commission",
+            "mode": "Online Payment",
+            "description": "Commission earned from sales"
+        },
+        {
+            "type": "Debit",
+            "amount": 23.50,
+            "date": "2024-09-21",
+            "name": "Coffee Supplies",
+            "mode": "Card",
+            "description": "Coffee supplies for the office"
+        },
+        {
+            "type": "Credit",
+            "amount": 450.00,
+            "date": "2024-09-20",
+            "name": "Workshop Fee",
+            "mode": "Cash",
+            "description": "Workshop registration fee"
+        },
+        {
+            "type": "Debit",
+            "amount": 135.40,
+            "date": "2024-09-19",
+            "name": "Office Cleaning",
+            "mode": "Bank Transfer",
+            "description": "Cleaning service fee"
+        },
+        {
+            "type": "Credit",
+            "amount": 200.00,
+            "date": "2024-09-18",
+            "name": "Content Creation",
+            "mode": "Online Payment",
+            "description": "Payment for content creation services"
+        },
+        {
+            "type": "Debit",
+            "amount": 22.70,
+            "date": "2024-09-17",
+            "name": "Parking Fee",
+            "mode": "Cash",
+            "description": "Parking charges for business event"
+        },
+        {
+            "type": "Credit",
+            "amount": 1250.00,
+            "date": "2024-09-16",
+            "name": "Development Work",
+            "mode": "Bank Transfer",
+            "description": "Payment for software development work"
+        },
+        {
+            "type": "Debit",
+            "amount": 300.00,
+            "date": "2024-09-15",
+            "name": "Advertising",
+            "mode": "Card",
+            "description": "Social media advertising expenses"
+        },
+        {
+            "type": "Credit",
+            "amount": 775.50,
+            "date": "2024-09-14",
+            "name": "Graphic Design",
+            "mode": "Online Payment",
+            "description": "Payment for graphic design services"
+        },
+        {
+            "type": "Debit",
+            "amount": 88.90,
+            "date": "2024-09-13",
+            "name": "Utility Bill",
+            "mode": "Bank Transfer",
+            "description": "Monthly electricity bill"
+        },
+        {
+            "type": "Credit",
+            "amount": 560.00,
+            "date": "2024-09-12",
+            "name": "E-book Sales",
+            "mode": "Online Payment",
+            "description": "Revenue from e-book sales"
+        },
+        {
+            "type": "Debit",
+            "amount": 12.00,
+            "date": "2024-09-11",
+            "name": "Snacks",
+            "mode": "Cash",
+            "description": "Snacks for team meeting"
+        },
+        {
+            "type": "Credit",
+            "amount": 800.00,
+            "date": "2024-09-10",
+            "name": "Consultation Fee",
+            "mode": "Cash",
+            "description": "Received fee for business consultation"
+        },
+        {
+            "type": "Debit",
+            "amount": 65.00,
+            "date": "2024-09-09",
+            "name": "Printing",
+            "mode": "Card",
+            "description": "Printing materials for presentation"
+        },
+        {
+            "type": "Credit",
+            "amount": 230.00,
+            "date": "2024-09-08",
+            "name": "Freelance Writing",
+            "mode": "Bank Transfer",
+            "description": "Payment for freelance article writing"
+        },
+        {
+            "type": "Debit",
+            "amount": 45.00,
+            "date": "2024-09-07",
+            "name": "Office Decor",
+            "mode": "Online Payment",
+            "description": "Decorations for office renovation"
+        },
+        {
+            "type": "Credit",
+            "amount": 1700.00,
+            "date": "2024-09-06",
+            "name": "Software Development",
+            "mode": "Bank Transfer",
+            "description": "Received payment for software project"
+        },
+        {
+            "type": "Debit",
+            "amount": 112.00,
+            "date": "2024-09-05",
+            "name": "Fuel Expenses",
+            "mode": "Cash",
+            "description": "Fuel expenses for company vehicle"
+        },
+        {
+            "type": "Credit",
+            "amount": 550.00,
+            "date": "2024-09-04",
+            "name": "Photography Services",
+            "mode": "Cash",
+            "description": "Payment for photography services"
+        },
+        {
+            "type": "Debit",
+            "amount": 240.00,
+            "date": "2024-09-03",
+            "name": "Travel Expense",
+            "mode": "Card",
+            "description": "Airfare for business trip"
+        },
+        {
+            "type": "Credit",
+            "amount": 275.00,
+            "date": "2024-09-02",
+            "name": "Content Creation",
+            "mode": "Bank Transfer",
+            "description": "Payment for video content creation"
+        },
+        {
+            "type": "Debit",
+            "amount": 18.00,
+            "date": "2024-09-01",
+            "name": "Meeting Snacks",
+            "mode": "Cash",
+            "description": "Snacks for client meeting"
+        },
+        {
+            "type": "Credit",
+            "amount": 450.00,
+            "date": "2024-08-31",
+            "name": "Online Workshop",
+            "mode": "Online Payment",
+            "description": "Income from online workshop registration"
+        },
+        {
+            "type": "Debit",
+            "amount": 70.00,
+            "date": "2024-08-30",
+            "name": "Marketing Materials",
+            "mode": "Card",
+            "description": "Flyers for marketing campaign"
+        }
+        // Add 66 more records here to reach 100
+    ]
+}
